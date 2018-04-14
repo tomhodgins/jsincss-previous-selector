@@ -1,6 +1,6 @@
 {
   "name": "jsincss-previous-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A previous selector plugin for jsincss",
   "main": "index.js",
   "scripts": {
