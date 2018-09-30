@@ -10,8 +10,6 @@ function previous(selector, rule) {
 
       tag.previousElementSibling.setAttribute(`data-prev-${attr}`, count)
       styles += `[data-prev-${attr}="${count}"] { ${rule} }\n`
-      count++
-
       return styles
 
     }, '')
